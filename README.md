@@ -8,5 +8,5 @@ Project Guidlines:
     +   3 Resume Web Pages
         *       1 for each dev
             -           Ronamae
-            -           Ronalyn
+            -           Ronelyn
             -           Jawad
